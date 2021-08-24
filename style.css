@@ -181,17 +181,14 @@ figure {
   }
 }
 
-@media (max-width: 600px) {
+
+@media (max-width: 500px) {
   figure img,
-  .overlay{
+  .overlay {
     width: 350px;
     height: 350px;
   }
 
-
-@media (max-width: 500px) {
-  figure img,
-  .overlay,
   .text-container {
     width: 350px;
   }
