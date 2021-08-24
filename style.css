@@ -180,16 +180,19 @@ figure {
     padding: 0.3em;
   }
 }
-
 @media (max-width: 500px) {
+  .container {
+    margin-top: 30px;
+  }
+
   figure img,
   .overlay {
-    width: 350px;
+    width: 400px;
     height: 350px;
   }
 
   .text-container {
-    width: 350px;
+    width: 400px;
   }
 
   .header-text {
@@ -207,9 +210,10 @@ figure {
   figure img,
   .overlay {
     height: 300px;
-    width: 300px;
+    width: 350px;
   }
   .text-container {
-    width: 300px;
+    width: 350px;
   }
 }
+
