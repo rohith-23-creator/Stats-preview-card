@@ -9,7 +9,7 @@
 ## Preview : 
   ![mobile](desktop-design.jpg)
   <p align="center">
-   <img src="(mobile-design.jpg)" alt="[mobile view]"/>
+   <img src="mobile-design.jpg" alt="[mobile view]"/>
   </p>
   
 ## Created By :
