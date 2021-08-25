@@ -7,8 +7,8 @@
   https://rohith-23-creator.github.io/Stats-preview-card/
   
 ## Preview : 
-  ![](design/desktop-design)
-  ![](design/mobile-design)
+  ![](desktop-design.jpg)
+  ![](mobile-design.jpg)
   
 ## Created By :
   [rohith-23-creator](https://github.com/rohith-23-creator)
